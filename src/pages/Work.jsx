@@ -139,7 +139,7 @@ const projects = [
     url: 'https://edtechguide.paunplugged.org/',
   },
   {
-    name: 'Parent EdTech Survey',
+    name: 'EdTech Survey Dashboard',
     what: 'A statewide data collection tool giving PA Unplugged real evidence on how schools use technology — and how parents feel about it.',
     who: 'The coalition, for legislative testimony, media, and building the case for policy change.',
     url: 'https://dashboard.paunplugged.org/',

@@ -308,7 +308,7 @@ const orgs = [
 const projects = [
   { name: 'PA Bill Tracker', desc: 'Real-time tracking of Pennsylvania legislation on phones, screens, and child digital wellbeing.', url: 'https://bills.paunplugged.org/' },
   { name: 'EdTech Advocacy Guide', desc: 'A personalized action guide helping PA parents understand and push back on school tech policy.', url: 'https://edtechguide.paunplugged.org/' },
-  { name: 'Parent EdTech Survey', desc: 'Statewide data collection on how schools use technology and how parents feel about it.', url: 'https://dashboard.paunplugged.org/' },
+  { name: 'EdTech Survey Dashboard', desc: 'Statewide data collection on how schools use technology and how parents feel about it.', url: 'https://dashboard.paunplugged.org/' },
 ];
 
 const collabs = [
