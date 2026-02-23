@@ -379,10 +379,10 @@ export default function Home() {
       <section id="hero">
         <div className="container">
           <div className="lp-hero">
-            <h1>Building healthier childhoods, offline and on.</h1>
+            <h1>People deserve a healthier relationship with technology.</h1>
             <p>
-              I work at the intersection of digital wellbeing, policy, and the kind of
-              in-person connection that screens can't replace.
+              I work toward that — through policy advocacy, community organizing, and
+              building the infrastructure that helps movements succeed.
             </p>
             <div className="lp-hero-ctas">
               <a href="#work" className="btn btn-primary">See My Work</a>
