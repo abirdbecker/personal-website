@@ -128,7 +128,7 @@ export default function About() {
             <p>
               Alex lives in Delaware County, PA with her family. She is passionate about civics, culture, and
               language. She believes in what becomes possible when people act in service of
-              something larger than themselves. We could all use more community. She's working on it.
+              something larger than themselves.
             </p>
           </div>
         </div>
