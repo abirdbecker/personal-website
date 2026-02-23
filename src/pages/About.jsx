@@ -117,7 +117,7 @@ export default function About() {
     <main>
       <div className="page-header container">
         <span className="section-label">About</span>
-        <h1>Researcher. Teacher. Organizer.</h1>
+        <h1>About Alex</h1>
       </div>
 
       <hr className="divider" />
@@ -127,7 +127,7 @@ export default function About() {
           <div className="about-bio">
             <p>
               I'm Alex Bird Becker — a researcher by training, a former 4th and 5th grade
-              elementary school teacher, and a community organizer by necessity. I live in
+              elementary school teacher. I live in
               Delaware County, Pennsylvania, with my husband and two kids.
             </p>
             <p>
@@ -140,7 +140,7 @@ export default function About() {
             </p>
             <p>
               That work grew into PA Unplugged, a statewide coalition I co-lead with
-              Kristen Beddard. We're a network of hyper-local groups across Pennsylvania
+              the co-leader of PA Unplugged. We're a network of hyper-local groups across Pennsylvania
               working toward the Phone-Free Schools Act and a broader reckoning with how
               technology shapes childhood. We track legislation, coordinate with lawmakers,
               and give parents the tools to take action in their own districts.

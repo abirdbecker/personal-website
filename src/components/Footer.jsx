@@ -108,7 +108,7 @@ export default function Footer() {
       <div className="footer-inner">
         <div className="footer-brand">
           <p>Alex Bird Becker</p>
-          <span>Advocate. Organizer. Builder.</span>
+          <span>Delaware County, PA</span>
         </div>
         <nav className="footer-nav">
           <Link to="/about">About</Link>

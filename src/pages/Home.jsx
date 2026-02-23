@@ -249,9 +249,8 @@ export default function Home() {
             Building healthier childhoods, offline and on.
           </h1>
           <p className="hero-sub">
-            I'm an advocate, community organizer, and builder working at the intersection of
-            digital wellbeing, policy, and the kind of in-person connection that screens
-            can't replace.
+            I work at the intersection of digital wellbeing, policy, and the kind of
+            in-person connection that screens can't replace.
           </p>
           <div className="hero-ctas">
             <Link to="/work" className="btn btn-primary">See My Work</Link>

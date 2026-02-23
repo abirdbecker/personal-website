@@ -113,15 +113,15 @@ const orgs = [
   },
   {
     name: 'PA Unplugged',
-    role: 'Co-Leader (with Kristen Beddard)',
+    role: 'Co-Leader',
     url: 'https://paunplugged.org',
     desc: 'A statewide coalition of hyper-local advocacy groups working to pass the Phone-Free Schools Act and reshape how Pennsylvania schools approach technology. PA Unplugged unites Wait Until 8th chapters, Delco Unplugged, and dozens of other community groups under one legislative and organizing umbrella. We track bills, coordinate with legislators, and give parents the tools to take action in their districts.',
   },
   {
     name: 'Screen Free Philly',
-    role: 'Co-Founder (with Mark Bernstiel)',
+    role: 'Co-Founder',
     url: 'https://screenfreephilly.org',
-    desc: 'A regional initiative promoting offline connection across the greater Philadelphia area. Screen Free Philly organizes digital detox events, phone-free social gatherings, and community conversations about what meaningful offline life looks like for families. A collaboration with Mark Bernstiel of From Your Corner.',
+    desc: 'A regional initiative promoting offline connection across the greater Philadelphia area. Screen Free Philly organizes digital detox events, phone-free social gatherings, and community conversations about what meaningful offline life looks like for families.',
   },
 ];
 
