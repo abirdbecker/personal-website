@@ -301,7 +301,6 @@ const orgs = [
     name: 'Screen Free Philly',
     role: 'Co-Founder',
     desc: 'A hub for screen-free events across the Philadelphia region — organizing, promoting, and connecting people to offline experiences worth showing up for.',
-
     url: 'https://screenfreephilly.com',
   },
 ];
@@ -309,7 +308,7 @@ const orgs = [
 const projects = [
   { name: 'PA Bill Tracker', desc: 'Pennsylvania legislation on phone-free schools, social media safety, student privacy, and childhood independence — tracked daily.', url: 'https://bills.paunplugged.org/' },
   { name: 'EdTech Advocacy Guide', desc: 'A personalized action guide helping PA parents understand and push back on school tech policy.', url: 'https://edtechguide.paunplugged.org/' },
-  { name: 'EdTech Survey Dashboard', desc: 'Statewide data collection on how schools use technology and how parents feel about it.', url: 'https://dashboard.paunplugged.org/' },
+  { name: 'EdTech Survey Dashboard', desc: 'Real-time results from a statewide Pennsylvania survey on parent and caregiver perspectives on screen time in school.', url: 'https://dashboard.paunplugged.org/' },
 ];
 
 const collabs = [

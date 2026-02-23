@@ -140,7 +140,7 @@ const projects = [
   },
   {
     name: 'EdTech Survey Dashboard',
-    what: 'A statewide data collection tool giving PA Unplugged real evidence on how schools use technology — and how parents feel about it.',
+    what: 'Real-time results from a statewide Pennsylvania survey on parent and caregiver perspectives on screen time in school.',
     who: 'The coalition, for legislative testimony, media, and building the case for policy change.',
     url: 'https://dashboard.paunplugged.org/',
   },
