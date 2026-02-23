@@ -6,11 +6,11 @@ const css = `
     --navy:        #0e1a2b;
     --navy-mid:    #1a2d45;
     --navy-light:  #253d5c;
-    --cream:       #f5efe4;
-    --cream-dim:   #c8bfb0;
-    --cream-muted: #8a8070;
-    --gold:        #c9a84c;
-    --gold-dim:    #a07830;
+    --cream:       #d4c4a4;   /* ecru/beige — headings, logo */
+    --cream-dim:   #f0f0ee;   /* white — body text */
+    --cream-muted: #8a8890;   /* captions, metadata */
+    --gold:        #9099d4;   /* periwinkle — accent, links, CTAs */
+    --gold-dim:    #7080c0;   /* periwinkle hover */
 
     --font-heading: 'DM Sans', sans-serif;
     --font-body:    'Lora', serif;
