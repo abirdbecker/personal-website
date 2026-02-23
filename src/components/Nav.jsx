@@ -30,16 +30,15 @@ const navCss = `
   }
 
   .nav-logo {
-    font-family: var(--font-heading);
-    font-size: 1rem;
-    font-weight: 700;
-    color: var(--cream) !important;
-    letter-spacing: 0.01em;
+    display: flex;
+    align-items: center;
     text-decoration: none;
+    line-height: 0;
   }
 
-  .nav-logo:hover {
-    color: var(--cream) !important;
+  .nav-logo img {
+    height: 32px;
+    width: auto;
   }
 
   .nav-links {
@@ -177,7 +176,7 @@ export default function Nav() {
     <nav className={`nav${scrolled ? ' scrolled' : ''}`}>
       <div className="nav-inner">
         <Link to="/" className="nav-logo" onClick={() => setOpen(false)}>
-          Alex Bird Becker
+          <img src="/logo-cream.svg" alt="Alex Bird Becker" />
         </Link>
         <button
           className={`nav-hamburger${open ? ' open' : ''}`}
