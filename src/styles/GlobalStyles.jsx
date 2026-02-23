@@ -6,8 +6,8 @@ const css = `
     --navy:        #0e1a2b;
     --navy-mid:    #1a2d45;
     --navy-light:  #253d5c;
-    --cream:       #d4c4a4;   /* ecru/beige — headings, logo */
-    --cream-dim:   #f0f0ee;   /* white — body text */
+    --cream:       #f0e8dc;   /* warm white — headings, logo */
+    --cream-dim:   #f0e8dc;   /* warm white — body text */
     --cream-muted: #8a8890;   /* captions, metadata */
     --gold:        #9099d4;   /* periwinkle — accent, links, CTAs */
     --gold-dim:    #7080c0;   /* periwinkle hover */
