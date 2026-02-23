@@ -120,7 +120,7 @@ const orgs = [
   {
     name: 'Screen Free Philly',
     role: 'Co-Founder',
-    url: 'https://screenfreephilly.org',
+    url: 'https://screenfreephilly.com',
     desc: 'A hub for screen-free events across the Philadelphia region — organizing, promoting, and connecting people to offline experiences worth showing up for.',
   },
 ];

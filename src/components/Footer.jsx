@@ -119,7 +119,7 @@ export default function Footer() {
         <div className="footer-external">
           <a href="https://delcounplugged.org" target="_blank" rel="noopener noreferrer">Delco Unplugged</a>
           <a href="https://paunplugged.org" target="_blank" rel="noopener noreferrer">PA Unplugged</a>
-          <a href="https://screenfreephilly.org" target="_blank" rel="noopener noreferrer">Screen Free Philly</a>
+          <a href="https://screenfreephilly.com" target="_blank" rel="noopener noreferrer">Screen Free Philly</a>
         </div>
       </div>
       <div className="footer-bottom">
