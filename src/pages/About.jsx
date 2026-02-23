@@ -126,17 +126,10 @@ export default function About() {
         <div className="container">
           <div className="about-bio">
             <p>
-              Delaware County, PA. Former teacher, current troublemaker.
+              Delaware County, PA. Former teacher, trained researcher. Still asking questions.
               I work on digital wellbeing — through policy, community, and the tools
               that make organizing possible.
             </p>
-
-            <div className="pull-quote">
-              <p>
-                "The work is not getting kids off their phones. The work is rebuilding the
-                conditions in which childhood can actually flourish."
-              </p>
-            </div>
           </div>
         </div>
       </section>
