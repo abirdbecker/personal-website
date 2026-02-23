@@ -286,13 +286,13 @@ const orgs = [
   {
     name: 'Delco Unplugged',
     role: 'Founder',
-    desc: 'Delaware County\'s digital wellbeing advocacy group — events, school board organizing, and offline community.',
+    desc: "Delaware County's hub for digital wellbeing — events, resources, and more.",
     url: 'https://delcounplugged.org',
   },
   {
     name: 'PA Unplugged',
     role: 'Co-Leader',
-    desc: 'Statewide coalition pushing the Phone-Free Schools Act through the Pennsylvania legislature.',
+    desc: 'A statewide coalition organizing across PA to take childhood offline and back into the real world.',
     url: 'https://paunplugged.org',
   },
   {
@@ -524,8 +524,7 @@ export default function Home() {
           <span className="section-label">About</span>
           <div className="lp-about">
             <p>
-              Alex lives in Delaware County, PA with her family. Former teacher, current
-              researcher and public servant. She is passionate about civics, culture, and
+              Alex lives in Delaware County, PA with her family. She is passionate about civics, culture, and
               language. She believes in what becomes possible when people act in service of
               something larger than themselves. We could all use more community. She's working on it.
             </p>

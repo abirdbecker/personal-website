@@ -109,13 +109,13 @@ const orgs = [
     name: 'Delco Unplugged',
     role: 'Founder & Lead Organizer',
     url: 'https://delcounplugged.org',
-    desc: 'Delaware County\'s most active digital wellbeing advocacy group. We go beyond pledge campaigns — hosting community events, organizing parents to push school boards, and building the kind of offline connection that screen-heavy culture erodes. Founded in 2023, Delco Unplugged has become a model for what a hyper-local tech advocacy group can look like.',
+    desc: "Delaware County's hub for digital wellbeing — events, resources, and more.",
   },
   {
     name: 'PA Unplugged',
     role: 'Co-Leader',
     url: 'https://paunplugged.org',
-    desc: 'A statewide coalition of hyper-local advocacy groups working to pass the Phone-Free Schools Act and reshape how Pennsylvania schools approach technology. PA Unplugged unites Wait Until 8th chapters, Delco Unplugged, and dozens of other community groups under one legislative and organizing umbrella. We track bills, coordinate with legislators, and give parents the tools to take action in their districts.',
+    desc: 'A statewide coalition organizing across PA to take childhood offline and back into the real world.',
   },
   {
     name: 'Screen Free Philly',

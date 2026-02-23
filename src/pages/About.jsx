@@ -126,8 +126,7 @@ export default function About() {
         <div className="container">
           <div className="about-bio">
             <p>
-              Alex lives in Delaware County, PA with her family. Former teacher, current
-              researcher and public servant. She is passionate about civics, culture, and
+              Alex lives in Delaware County, PA with her family. She is passionate about civics, culture, and
               language. She believes in what becomes possible when people act in service of
               something larger than themselves. We could all use more community. She's working on it.
             </p>
