@@ -117,7 +117,7 @@ export default function About() {
     <main>
       <div className="page-header container">
         <span className="section-label">About</span>
-        <h1>About Alex</h1>
+        <h1>Alex Bird Becker</h1>
       </div>
 
       <hr className="divider" />
@@ -126,30 +126,9 @@ export default function About() {
         <div className="container">
           <div className="about-bio">
             <p>
-              I'm Alex Bird Becker — a researcher by training, a former 4th and 5th grade
-              elementary school teacher. I live in
-              Delaware County, Pennsylvania, with my husband and two kids.
-            </p>
-            <p>
-              After years in the classroom watching what smartphones and social media were
-              doing to children, I started asking hard questions — and then organizing
-              around the answers. In 2023 I founded Delco Unplugged, Delaware County's
-              first digital wellbeing advocacy group. We host events, push school boards,
-              and build offline community. Not a pledge campaign — an actual organizing
-              effort.
-            </p>
-            <p>
-              That work grew into PA Unplugged, a statewide coalition I co-lead with
-              the co-leader of PA Unplugged. We're a network of hyper-local groups across Pennsylvania
-              working toward the Phone-Free Schools Act and a broader reckoning with how
-              technology shapes childhood. We track legislation, coordinate with lawmakers,
-              and give parents the tools to take action in their own districts.
-            </p>
-            <p>
-              I also build the digital infrastructure that advocacy organizations need —
-              bill trackers, action guides, survey tools, coalition sites. And I'm deepening
-              my work in community building: organizing screen-free gatherings and events
-              that help families rediscover what offline life looks and feels like.
+              Delaware County, PA. Former teacher, current troublemaker.
+              I work on digital wellbeing — through policy, community, and the tools
+              that make organizing possible.
             </p>
 
             <div className="pull-quote">
