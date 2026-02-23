@@ -307,7 +307,7 @@ const orgs = [
 
 const projects = [
   { name: 'PA Bill Tracker', desc: 'Pennsylvania legislation on phone-free schools, social media safety, student privacy, and childhood independence — tracked daily.', url: 'https://bills.paunplugged.org/' },
-  { name: 'EdTech Advocacy Guide', desc: 'A personalized action guide helping parents advocate for better school tech policies.', url: 'https://edtechguide.paunplugged.org/' },
+  { name: 'EdTech Advocacy Guide', desc: 'An interactive action guide designed to help parents advocate for better school tech policies.', url: 'https://edtechguide.paunplugged.org/' },
   { name: 'EdTech Survey Dashboard', desc: 'Real-time results from a statewide Pennsylvania survey on parent and caregiver perspectives on screen time in school.', url: 'https://dashboard.paunplugged.org/' },
 ];
 
